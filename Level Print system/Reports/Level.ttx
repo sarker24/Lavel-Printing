@@ -1,0 +1,9 @@
+PatId1	String	50	
+Name	String	50	
+age	String	20	
+RefBy	String	200	
+Date	Date		
+Sex	String	30	
+TestName	String	40	
+Amount	Number		
+Group	String	25	

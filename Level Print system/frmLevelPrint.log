@@ -1,0 +1,4 @@
+Line 119: Class MSComCtl2.DTPicker of control BillDate was not a loaded control class.
+Line 261: Class MSComctlLib.ListView of control List1 was not a loaded control class.
+Line 350: Class MSAdodcLib.Adodc of control AdodcSub was not a loaded control class.
+Line 397: Class MSAdodcLib.Adodc of control AdodcMain was not a loaded control class.
